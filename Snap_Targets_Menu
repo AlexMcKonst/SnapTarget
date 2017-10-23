@@ -8,7 +8,7 @@ bl_info = {
     "description": "",
     "warning": "WIP",
     "wiki_url": "",
-    "tracker_url": "https://github.com/AlexMcKonst/MASC",
+    "tracker_url": "https://github.com/AlexMcKonst/SnapTarget",
     "category": "Mesh"}
 
 import bpy
