@@ -63,7 +63,7 @@ class SnapTarget_menu(bpy.types.Menu):
         layout.prop(scene, 'Actv', text='ACTIVE')
         layout.prop(scene, 'Mdn', text='MEDIAN')
         layout.prop(scene, 'Cntr', text='CENTER')
-        layout.prop(scene, 'Clst', text='CLOSETS')
+        layout.prop(scene, 'Clst', text='CLOSESTS')
 
 
         
